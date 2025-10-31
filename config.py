@@ -5,6 +5,7 @@ PLAYLISTS = {
     "semi_ramblomatic": "PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s",
     "yahtzee_tries": "PLUBKwq0XD0uekGMJmHwioeoldreCjQTBc",
     "canard_pc_emission": "PLDN-m4HWH8MCwmKac1e-0OkD6vk-hTFCX",
+    "jon_stewart": "PLeskMkEaHJYfTMaKwmBWGq4NogX9FLF2J",
 }
 
 NB_DAYS = 60
