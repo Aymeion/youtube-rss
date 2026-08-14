@@ -9,6 +9,7 @@ PLAYLISTS = {
     "ctrl_technique": "PLDN-m4HWH8MCCH2LAyYjmtv8Sgmiftylu",
     "tribunal_des_bureaux": "PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p",
     "live_laugh_love": "PLDN-m4HWH8MDbO5GHjeJcB38TGI6fm84u",
+    "last_week_tonight":"PLmKbqjSZR8TaJzSw1bmHT41cHQB0XDR6a"
 }
 
 NB_DAYS = 60
